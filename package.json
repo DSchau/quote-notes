@@ -51,5 +51,8 @@
     "@types/jest": "^23.3.10",
     "@types/node": "^10.12.12",
     "jest": "^23.6.0"
+  },
+  "resolutions": {
+    "graphql": "0.13.2"
   }
 }
